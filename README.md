@@ -8,7 +8,7 @@ http://localhost:8080/api/login
 
 ![Authentication](images/Authentication.png)
 
-## Authentication
+## Authorization
 
 To call a service using the authorization token:
 
@@ -16,6 +16,7 @@ http://localhost:8080/api/users
 
 ![Accessig Resource](images/AccessingResource.png)
 
+## Using the Refresh Token
 
 To generate a access token using the refresh token
 
