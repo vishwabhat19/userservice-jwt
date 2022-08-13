@@ -8,6 +8,7 @@ http://localhost:8080/api/login
 
 ![Authentication](images/Authentication.png)
 
+## Authentication
 
 To call a service using the authorization token:
 
