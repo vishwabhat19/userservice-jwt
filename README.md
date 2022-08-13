@@ -1,6 +1,6 @@
 # SpringBoot Authentication and Authorization Application
 
-##Authentication
+## Authentication
 
 The application takes the user credentials i.e. username and password and authentictes the user and providers the access token and refresh token:
 
